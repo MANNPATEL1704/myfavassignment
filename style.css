@@ -1,0 +1,43 @@
+html {
+  text-align: center;
+}
+body {
+  background-color: rgba(185, 225, 225, 0.3);
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  border: solid;
+  border-radius: 15px;
+  width: 600px;
+}
+h1 {
+  padding-bottom: 50px;
+  width: auto;
+  text-decoration: underline;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-bottom: 20px;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+ul {
+  text-align: left;
+  width: 425px;
+  margin: 20px auto;
+}
+.blue {
+  color: rgb(34, 131, 176);
+}
+.green {
+  color: green;
+}
+.magenta {
+  color: magenta;
+}
+.orange {
+  color: rgb(254, 85, 0);
+}
